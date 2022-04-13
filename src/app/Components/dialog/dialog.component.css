@@ -1,0 +1,25 @@
+.container{
+    background-image: url(./img/main-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 490px;
+    width: 400px;
+    color:black;
+    text-align: justify;
+    
+    
+
+}
+#title{
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 80px;
+    font-size:x-large;
+
+
+}
+.content{
+    font-size:medium;
+    text-decoration: underline;
+}
+

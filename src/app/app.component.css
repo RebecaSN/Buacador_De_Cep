@@ -1,0 +1,30 @@
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.buscar{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    
+}
+#btn{
+    background-color:rgb(92,146,158);
+}
+#title{
+    color:rgb(92,146,158);
+    margin-bottom: 50px;
+    margin-left: 100px;
+    font-family: 'Roboto Mono';
+    font-size: xx-large;
+}
+#ipt{
+    color: rgb(216,121,103);
+    
+}
+#icon{
+   color: white;
+}
+

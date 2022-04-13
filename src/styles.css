@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,600;1,200;1,500&display=swap');
+
+html,body { height: 100%; }
+body { 
+    margin: 0;
+    font-family:"Roboto Mono", monospace,sans-serif;
+    background-image:url("./img/DP141086.jpg");
+    background-size: cover;
+    
+    
+}
+.my-class .mat-dialog-container{
+    background-color: rgb(102,138,111);
+}
+
